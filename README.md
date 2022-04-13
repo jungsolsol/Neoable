@@ -27,5 +27,6 @@
 
 *목표
 
-1. rsyslog 서버 구성 (필요한 로그만)
-3. 데이터버스 구성도 작성 및 구성
+1. rsyslog 서버 구성 - 날짜별, 항목별(인증, 데이터전송, 시스템오류)
+2. ELk 스택을 사용 (logstash, elasticsearch, kibana, filebeat)한 웹 GUI 구성
+3. mysql, rsyslog 연동
