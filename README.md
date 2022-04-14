@@ -25,8 +25,17 @@
 
 # 0413
 
-*목표
+
+*작업 내용 
 
 1. rsyslog 서버 구성 - 날짜별, 항목별(인증, 데이터전송, 시스템오류)
-2. ELk 스택을 사용 (logstash, elasticsearch, kibana, filebeat)한 웹 GUI 구성
-3. mysql, rsyslog 연동
+2. mysql, rsyslog 연동
+
+# 0414
+
+*작업내용
+
+1. rsyslog 서버 구성 폴더별로 logdata locate 지정 (python,nginx..)
+2. mysql + loganalyzer 연동 사이트 구성 http://172.47.20.200/loganalyzer/index.php?
+3. client log server 구성 및 연동 *참고 사이트(https://tez.kr/147)
+4. 
