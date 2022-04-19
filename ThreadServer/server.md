@@ -1,4 +1,4 @@
-`python
+```python
 내 드라이브
 import socketserver, threading, time
 import pymysql
@@ -111,4 +111,4 @@ if __name__ == '__main__':
         server.server_close()
         
         exit()
-`
+```
